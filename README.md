@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**BotBoyM1/BotBoyM1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer of some mods, clientmods, launchers and clients.
 
-Here are some ideas to get you started:
+# Minecraft
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Username: Ma3rX
+Cheats: Impact 4.9.1, Kami Blue, Salhack, Rage R9, Pyro(cracked), Intertia Client.
+
+Version: 1.12.2 Forge-2860.
+
+Servers: 2b2t.org, 2b2t.org.ru
+
+License: yes.
+
+# Minetest
+
+Username: BotBoyM1.
+
+Cheats: TeranClient, waspsaliva.
+
+Version: TeranClient-5.6.0
+
+Servers: Solo Un Altro Clone, oysterity anarchy
+
+License: no(I NOT NEED IT!)
