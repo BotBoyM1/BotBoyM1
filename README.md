@@ -5,7 +5,8 @@ Developer of some mods, clientmods, launchers and clients.
 # Minecraft
 
 Username: Ma3rX
-Cheats: Impact 4.9.1, Kami Blue, Salhack, Rage R9, Pyro(cracked), Intertia Client.
+
+Cheats: Impact 4.9.1, Kami Blue, Salhack, Rage R9, Pyro, Intertia Client.
 
 Version: 1.12.2 Forge-2860.
 
